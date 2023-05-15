@@ -19,4 +19,4 @@ namespace _009.nullatolezerig
             Console.ReadKey();
         }
     }
-}
+} 
